@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Voice Recorder</string>
+    <string name="record_text">RECORD</string>
+    <string name="play_text">PLAY</string>
+</resources>
